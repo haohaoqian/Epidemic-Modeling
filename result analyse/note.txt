@@ -1,0 +1,3 @@
+result T*N*7 [T][N][]——T时间，N区域的susceptible,latent,infected,infected_asymptomatic,in_hospital,recovered,death
+result_income T*3——T时间，输入infected,latent,infected_asymptomatic
+control_influency T——T时间，交通管控的影响
